@@ -1,0 +1,4 @@
+# Only activates after $git init
+node_modules/
+.env
+env.d
